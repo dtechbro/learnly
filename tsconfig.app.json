@@ -6,6 +6,7 @@
     /* Linting */
     "strict": true,
     "noUnusedLocals": true,
+    // "forceConsistentCasingInFileNames": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true

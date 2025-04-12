@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Index from '../pages/index.vue'
+import Index from '../pages/Index.vue'
 import Quiz from '../pages/Quiz.vue'
 
 const router = createRouter({
